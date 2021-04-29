@@ -1,1 +1,2 @@
 https://www.atlassian.com/git/tutorials/svn-to-git-prepping-your-team-migrationhttps://cheatography.com/davechild/cheat-sheets/linux-command-line/
+https://cheatography.com/davechild/cheat-sheets/linux-command-line/
